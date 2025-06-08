@@ -1,2 +1,6 @@
 # Entregable-seven-
-Mi entrega aparte del trabajo practico de computación aplicada. 
+Equipo seven:
+Francisco josé Huber
+Joel
+Julian 
+Matias
